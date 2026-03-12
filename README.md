@@ -1,0 +1,2 @@
+# solofruta-service
+lambda - SaaF
