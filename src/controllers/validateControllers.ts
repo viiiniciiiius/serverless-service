@@ -16,7 +16,7 @@ export const validateController = (
       res.status(400).json({
         success: false,
         error: 'Bad Request',
-        message: 'Os parâmetros são obrigatórios e devem ser válidas.',
+        message: 'Os parâmetros são obrigatórios e devem ser válidos.',
       });
       return;
     }
