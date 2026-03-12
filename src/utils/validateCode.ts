@@ -1,5 +1,5 @@
 import crypto from 'crypto';
-import { validateClientId } from './validateClientId';
+import { validateClientId } from './validateClientId.js';
 
 const key1 = process.env.KEY1;
 const key2 = process.env.KEY2;

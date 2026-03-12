@@ -1,5 +1,5 @@
 import { type Request, type Response } from 'express';
-import { validateCode } from '../utils/validateCode';
+import { validateCode } from '../utils/validateCode.js';
 
 export const validateController = (
   req: Request,

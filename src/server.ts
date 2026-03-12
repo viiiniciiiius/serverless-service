@@ -1,5 +1,5 @@
 import express from 'express';
-import validateRoutes from './routes/validateRoutes';
+import validateRoutes from './routes/validateRoutes.js';
 import dotenv from 'dotenv';
 
 dotenv.config();
