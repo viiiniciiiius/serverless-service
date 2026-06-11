@@ -1,2 +1,2 @@
-# solofruta-service
+# serverless-service
 lambda - SaaF
